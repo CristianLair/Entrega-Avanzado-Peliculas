@@ -1,0 +1,109 @@
+ [
+    {
+        "titulo":  "obvilon (2012)",
+        "calificacion": "8.1/10",
+        "director": "Joss Whedon",
+        "img": "images/uploads/mv1.jpg",
+        "fecha":  " Release: 1 May 2012",
+        "edadM" : "MMPA: PG-13 ",
+        "duracion": "2hs 21 minutos",
+        "actores": " Robert Downey Jr,Chris Evans,Chris Hemsworth",
+        "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+
+    },
+    {
+        "titulo":   " into the wild (2014)",
+        "calificacion": "7.8/10",
+        "director": "Anthony Russo, Joe Russo",
+        "img": " images/uploads/mv2.jpg",
+        "fecha":  " Release: 1 May 2014",
+        "edadM" : "MMPA: PG-13 ",
+        "duracion": "2hs 21 minutos",
+        "actores":  "Paul Rudd, Michael Douglas",
+        "descripcion": " Armed with a super-suit with the astonishing ability to shrink in scale .but increase in strength, cat burglar Scott Lang must embrace his inner hero and help.. "
+    },
+    {
+        "titulo":  "blade runner(2015)",
+        "calificacion": "7.3/10",
+        "director": "Peyton Reed",
+        "img": "images/uploads/mv3.jpg",
+        "fecha":  " Release: 1 May 2015",
+        "edadM":  "MMPA: PG-13 ",
+        "duracion": "2hs 21 minutos",
+        "actores": " Robert Downey Jr,Chris Evans,Chris Hemsworth",
+        "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
+    },
+    {
+        "titulo":  "Mulholland pride (2015)",
+        "calificacion" :"7.2/10",
+        "director": " Shane Black",
+        "img": "images/uploads/mv4.jpg",
+        "fecha":  " Release: 1 May 2015",
+        "edadM ":  "MMPA: PG-13 ",
+        "duracion": "2hs 21 minutos",
+        "actores":"  Guy Pearce,Don Cheadle,Robert Downey Jr",
+        "descripcion": " When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution"
+    },
+    {
+        "titulo":  "skyfall evil of boss (2013)",
+        "calificacion": "7.0/10",
+        "director": "Alan Taylor",
+        "img" :"images/uploads/mv5.jpg",
+        "fecha":  " Release: 1 May 2013",
+        "edadM":  "MMPA: PG-13 ",
+        "duracion": "2hs 21 minutos",
+        "actores": " Chris Hemsworth,Natalie Portman,Tom Hiddleston",
+        "descripcion" :"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    },
+    {
+        "titulo":  "Blue Velvet (1986)",
+        "calificacion": "6.9/10",
+        "director": "David Lynch",
+        "img" :"images/uploads/mv-item6.jpg",
+        "fecha":  " Release: 12 Sep 1986",
+        "edadM":  "MMPA: PG-13 ",
+        "duracion": "1hs 41 minutos",
+        "actores": "Kyle MacLachlan Isabella Rossellini,Dennis Hopper,Laura DernHope,LangeGeorge DickersonDean Stockwell",
+        "descripcion" :"The film concerns a young college student who, returning home to visit his ill father, discovers a severed human ear in a field that leads to him uncovering a vast criminal conspiracy and entering a romantic relationship with a troubled lounge singer.."
+    },
+   
+   
+   
+    {
+        "titulo":  "SouthPaw (2015)",
+        "calificacion": "6.5/10",
+        "director": " Antoine Fuqua",
+        "img" :"images/uploads/mv-item8.jpg",
+        "fecha":  " Release: 31 Jul 2015",
+        "edadM":  "MMPA: PG-13 ",
+        "duracion": "1hs 43 minutos",
+        "actores": " Jake Gyllenhaal,Rachel McAdams,Naomie Harris,Forest Whitaker,Víctor Ortiz,Miguel Gomez",
+        "descripcion" :"After a fatal incident sends him on a rampant path of destruction, a champion boxer fights to get custody of his daughter and revive his professional career.."
+    },
+    {
+        "titulo":  "Spectre (2015)",
+        "calificacion": "5.9/10",
+        "director": "Sam Mendes",
+        "img" :"images/uploads/mv-item10.jpg",
+        "fecha":  " Release: 1 May 2015",
+        "edadM":  "MMPA: PG-13 ",
+        "duracion": "1hs 48 minutos",
+        "actores": " Daniel Craig, Christoph Waltz, Léa Seydoux Ben, Whishaw Naomie Harris, Dave Bautista Andrew, Scott Monica, Bellucci Ralph Fiennes, Rory Kinnear",
+        "descripcion" :"After carrying out an unauthorised kill, James Bond uncovers the exsistence of a sinister organisation named SPECTRE. As M battles political forces to keep the 00 section alive, Bond embarks on a personal mission to discover the connection he has with the group's leader and thwart their global surveillance network.."
+    },
+    {
+        "titulo":  "The forest (2016)",
+        "calificacion": "5.4/10",
+        "director": "Jason Zada",
+        "img" :"images/uploads/mv-item9.jpg",
+        "fecha":  " Release: 1 Ene 2016",
+        "edadM":  "MMPA: PG-13 ",
+        "duracion": "1hs 35 minutos",
+        "actores": " Natalie Dormer,Taylor,Kinney, Eoin Macken",
+        "descripcion" :"The Forest is a 2016 American supernatural horror film directed by Jason Zada and written by Ben Ketai, Nick Antosca, and Sarah Cornwell. Starring Natalie Dormer and Taylor Kinney, it follows a young woman who travels to Aokigahara (the suicide forest) to find her sister."
+    }
+
+
+
+]
+
