@@ -55,7 +55,7 @@ function PageWapper (props){
               
               <div className="navbar-header logo">
                   
-                  <a href="/"><img className="logo" src="images/logo1.png" alt="" width="119" height="58" /></a> 
+                  <a href="/"><img className="logo" src="logo1.png" alt="" width="119" height="58" /></a> 
               
               <div className="d-flex justify-content-end " > 
               <button onClick={clickSingOut} >
@@ -145,7 +145,7 @@ function PageWapper (props){
                       <img src="images/uploads/ads1.png" alt="" />
                   </div>
                   <div className="sb-facebook sb-it">
-                      <h4 className="sb-title">Shipping all over the country</h4>
+                      <h4 className="sb-title"></h4>
                       
                   </div>
                  

@@ -9,6 +9,7 @@ import "./Navigation.css"
 
 
 
+
 const Navigation = ({history,setIsUser}) => {
 
   const clickSingOut = (event) =>{
@@ -23,7 +24,7 @@ const Navigation = ({history,setIsUser}) => {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
       <div className="navbar-header logo">
                   
-                  <img className="logo" src="images/logo1.png" alt="" width="119" height="58" /> 
+                  <img className="logo" src="logo1.png" alt="" width="119" height="58" /> 
               </div>
         <div className="container">
           <a className="navbar-brand" href="http://localhost:3000/signup">
@@ -58,11 +59,7 @@ const Navigation = ({history,setIsUser}) => {
                       Login
                     </Link>
                   </NavItem>
-                  <NavItem className="nav-link">
-                  <Link className="nav-link" onClick={clickSingOut} >
-                  cerrar session
-                  </Link>
-                  </NavItem>
+                  
                 </>
              
               

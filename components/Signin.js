@@ -40,20 +40,21 @@ const Signin = ({setIsUser}) => {
     .then(response => response.json())
   
        .then(data => {
-        
+        console.log('successssssssss',data)
         if (!data) {
           setValues({...values, error: error, loading:false});
           setIsUser(null)
         localStorage.removeItem("jwt")
         } else {
-          if(data.token){        
+          if(data){        
             localStorage.setItem('jwt', JSON.stringify(data));
+            
             setIsUser(data)
           }
 
         }
       }) .catch(e => {
-        
+        console.log('errorrrrr')
         setIsUser(null)
         localStorage.removeItem("jwt")
       })
